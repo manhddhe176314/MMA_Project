@@ -1,0 +1,9 @@
+[{
+  "_id": {
+    "$oid": "66edaf5cfbc7581f451c80f2"
+  },
+  "lectureId": "T001",
+  "name": "John Smith",
+  "subject": "Computer Science",
+  "email": "john.smith@example.com"
+}]

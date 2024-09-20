@@ -1,0 +1,7 @@
+[{
+  "_id": "ObjectId",
+  "studentId": "S1234",
+  "name": "John Doe",
+  "dob": "2000-05-15",
+  "class": "CS101"
+}]
