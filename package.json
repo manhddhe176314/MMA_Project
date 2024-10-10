@@ -1,0 +1,31 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "main": "expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "dev": "nodemon server.js",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@react-navigation/native": "^6.1.18",
+    "@react-navigation/native-stack": "^6.11.0",
+    "axios": "^1.7.7",
+    "cors": "^2.8.5",
+    "expo": "~51.0.28",
+    "expo-status-bar": "~1.12.1",
+    "express": "^4.21.0",
+    "mongoose": "^8.6.4",
+    "nodemon": "^3.1.7",
+    "react": "18.2.0",
+    "react-native": "0.74.5",
+    "react-native-linear-gradient": "^2.8.3",
+    "router": "^1.3.8"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true
+}
